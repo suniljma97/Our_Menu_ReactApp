@@ -1,0 +1,83 @@
+*{
+   background-color:white;
+   font-family: Arial, Helvetica, sans-serif;
+  
+}
+.text{
+   text-align: center;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   font-size: 25px;
+   padding-top: 30px;
+}
+.desc{
+   padding: 4px;
+   color: slategrey;
+   font-size: 14px;
+}
+
+.col3{
+   margin-top: 5%;  
+}
+.info{
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(6, 248, 248);
+}
+.price1{
+   font-weight: bold;
+   color: chocolate;
+}
+.br1{
+  border: 1px solid rgb(249, 240, 214);
+  border-radius: 5px;
+}
+.name1{
+   font-weight: bold;
+   font-family: Tahoma, Verdana, sans-serif;
+}
+
+.btn{
+   text-align: center;
+}
+.img2{
+   height: 100px;
+   padding: 1px;
+   margin: 1px;
+   width: 120px;
+   border-radius: 4px;
+   border: 2px solid chocolate;
+}
+.img3{
+   height: 80px;
+   padding: 1px;
+   margin-top: 6px;
+   width: 80px;
+   border-radius: 4px;
+   border: 2px solid rgb(111, 210, 30);
+}
+.hrr{
+   margin-left: 200px;
+   width: 8%;
+   background-color:  rgb(248, 156, 7);
+   padding-bottom: 5px;
+}
+.nav-link{
+ font-weight: bold;
+ margin-left: 30px;
+}
+.form-group{
+   margin-left: 40px;
+   width: 300px;
+}
+.item{
+   color: darkblue;
+   font-size: 30px;
+}
+.item1{
+   padding-top: 40px;
+   text-align: center;
+}
+.badge{
+      border-radius: 50%;
+}
